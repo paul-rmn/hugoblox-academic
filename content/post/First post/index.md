@@ -1,24 +1,14 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: First blog post
+date: '2023-12-15'
+summary: Essentially a test
 ---
 
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+I will start with some random stuff and then repeat what was there before
 
-    
-![png](output_1_0.png)
-    
 
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
+Welcome to Academic!
 
 ## Organize your notebooks
 
