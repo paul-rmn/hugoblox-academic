@@ -1,7 +1,7 @@
 ---
 title: First blog post
 date: '2023-12-15'
-summary: Essentially a test
+summary: This is a test
 ---
 
 
