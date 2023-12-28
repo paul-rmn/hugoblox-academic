@@ -4,7 +4,7 @@ date: '2023-12-27'
 summary: "Notas de aula para o curso Estruturas algébricas do quinto semestre do curso de bacharelado em matemática da UFC."
 author: 'Ramon Nunes'
 featured: false
-draft: false
+draft: true
 math: mathjax
 date:    2023-09-27T23:31:00-03:00
 lastmod: 2023-09-12T23:31:00-03:00
